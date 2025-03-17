@@ -40,13 +40,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## GhPages
 
-<strong>Link:</strong> https://juanpapiro.github.io/portfolio-dev/browser/
+<strong>Link:</strong> https://juanpapiro.github.io/portfolio-dev/
 
 ## :custard: Aprenda a subir o seu código no ghPages
 
 <strong>Adicionado ao projeto:</strong> ng add angular-cli-ghpages
 <br>
 
-<strong>Deploy executado com:</strong> ng deploy --base-href https://<PERFIL_DO_GITHUB>.github.io/<REPOSITORIO_GITHUB_DO_PROJETO>/browser/
+<strong>Deploy executado com:</strong> ng deploy --base-href https://<PERFIL_DO_GITHUB>.github.io/<REPOSITORIO_GITHUB_DO_PROJETO>/
 
-<strong>Exp.:</strong> ng deploy --base-href https://juanpapiro.github.io/portfolio-dev/browser/
+<strong>Exp.:</strong> ng deploy --base-href https://juanpapiro.github.io/portfolio-dev/
