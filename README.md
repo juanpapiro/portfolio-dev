@@ -1,3 +1,12 @@
+
+<h1 align="center">
+  <img src="https://vidafullstack.com.br/wp-content/uploads/2020/07/angular.png" alt="" width="150">
+  <br>
+    Projeto Prático: Portfólio
+  <br>
+  https://juanpapiro.github.io/portfolio/browser/
+</h1>
+
 # DevPortfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.13.
