@@ -4,7 +4,7 @@
   <br>
     Projeto Prático: Portfólio
   <br>
-  https://juanpapiro.github.io/portfolio/browser/
+  https://juanpapiro.github.io/portfolio-dev/browser/
 </h1>
 
 # DevPortfolio
